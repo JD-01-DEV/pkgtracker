@@ -1,0 +1,7 @@
+# pkgtracker - Universal Linux Package Tracker
+# Core dependencies (standard libraries only)
+# Installed automatically by system package manager
+
+python>=3.6
+sqlite3
+systemd  # for timer unit; available on all major distros
